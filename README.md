@@ -1,7 +1,5 @@
 # **Traffic Sign Recognition** 
 
----
-
 **Build a Traffic Sign Recognition Project**
 
 The goals of this project are the following:
