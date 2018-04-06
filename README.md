@@ -1,5 +1,12 @@
 # **Traffic Sign Recognition** 
 
+---
+##Overview
+
+This project uses deep neural networks and convolutional neural networks to classify traffic signs. It trains and validates a model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model was trained,I tried out my model on images of German traffic signs found on the web.
+
+
+---
 **Build a Traffic Sign Recognition Project**
 
 The goals of this project are the following:
@@ -16,11 +23,11 @@ The goals of this project are the following:
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image4]: ./validate/00004.ppm "Traffic Sign 1"
+[image5]: ./validate/00017.ppm "Traffic Sign 2"
+[image6]: ./validate/00046.ppm "Traffic Sign 3"
+[image7]: ./validate/00079.ppm "Traffic Sign 4"
+[image8]: ./validate/00114.ppm "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -30,7 +37,7 @@ The goals of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/ccgregory/SDC-TrafficSignClassifier/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
