@@ -24,11 +24,11 @@ The goals of this project are the following:
 [image11]: ./examples/visualization.jpg "Normalized"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./validate/00004.ppm "Traffic Sign 1"
-[image5]: ./validate/00017.ppm "Traffic Sign 2"
-[image6]: ./validate/00046.ppm "Traffic Sign 3"
-[image7]: ./validate/00079.ppm "Traffic Sign 4"
-[image8]: ./validate/00114.ppm "Traffic Sign 5"
+[image4]: ./NewImages/00004.jpg "Traffic Sign 1"
+[image5]: ./NewImages/00017.jpg "Traffic Sign 2"
+[image6]: ./NewImages/00046.jpg "Traffic Sign 3"
+[image7]: ./NewImages/00079.jpg "Traffic Sign 4"
+[image8]: ./NewImages/00114.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
